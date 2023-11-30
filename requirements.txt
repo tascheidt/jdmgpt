@@ -1,1 +1,9 @@
 biopython
+requests
+selenium
+streamlit
+openai
+llama-index
+nltk
+pypdf
+chromadb
