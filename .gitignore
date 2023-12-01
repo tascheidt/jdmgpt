@@ -167,3 +167,5 @@ sample_articles/
 downloaded_articles/
 .csv
 .pdf
+chroma/
+chroma_db/

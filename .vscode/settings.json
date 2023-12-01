@@ -1,0 +1,6 @@
+{
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.hover.enabled": true,
+    "editor.stablePeek": true,
+    "github.copilot.chat.welcomeMessage": "never"
+}
